@@ -2,7 +2,7 @@
 Lightweight Authentic Wireless Communications for Micro:Bit  IoT Device
 
 ## About Project
-UWE corsework assessment for IoT security to implement an authentication system and encrypted wireless communications between two Micro:bits using the nRF radio (uBit.radio) and C/C++ programming language.
+UWE coursework assessment for IoT security to implement an authentication system and encrypted wireless communications between two Micro:bits using the nRF radio (uBit.radio) and C/C++ programming language.
 
 The program has 3 commands and a single secret code that will be shared with other device. A ‘command’ here is defined as any action that can be performed using a Micro:bit device. the sender can select the command using the Micro:bit buttons and the system will encrypt the command with AES (aes_enc) and transmit it to the other Micro:bit. 
 
